@@ -31,4 +31,4 @@ The following CNN models are used:
 | Ensemble | 0.875 |
 
 ## Conclusion
-Out of all the algorithms used, Ensemble of Xception, Resnet152, InceptionV3 gives the best accuracy of 0.8753.
+Among of all the algorithms used, Ensemble of Xception, Resnet152, InceptionV3 gives the best accuracy of 0.8753.
